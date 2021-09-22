@@ -8,7 +8,7 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 * General Hackahton Resources can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). Here you can find
    * item1
    * item2
-* Proctor Assests can be found [here](). In this folder you can find
+* Proctor Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
   * item1
   * item2
 * Hacker Assests can be found [here](). In this folder you can find
