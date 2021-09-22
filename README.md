@@ -4,6 +4,9 @@ The Microsoft has helped several high-visibility partnerships around smart build
 
 The Sustainable Smart Buildings Hackathon helps develop the skills and fluency to build repeatable and customizable first-party solutions for environmental monitoring, energy consumption, facility operating efficiency, and energy source optimization. 
 
+# Materials in this Reposotory for successful hackathon execution
+
+
 # Hackathon Overview:  Predicting Shop Floor Occupancy
 
 Contoso Corporation is a construction company building shop floors for many manufacturers across the United States. They are interested in incorporating sustainability into their shop floor design as they embark on smart building development. To support this effort, Contoso has invested in IoT technology, installing sensors on 51 of their shop floors. As a launching ground for their sustainability journey, Contoso needs to understand the data collected by their sensors and the factors influenced by the occupancy rate. Using this knowledge, they want to regulate temperature, humidity, light, and mnonitor CO2 levels on their shop floors.
