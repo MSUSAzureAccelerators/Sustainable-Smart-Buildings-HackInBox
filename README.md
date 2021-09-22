@@ -5,7 +5,7 @@ The Microsoft has helped several high-visibility partnerships around smart build
 The Sustainable Smart Buildings Hackathon helps develop the skills and fluency to build repeatable and customizable first-party solutions for environmental monitoring, energy consumption, facility operating efficiency, and energy source optimization. 
 
 # Materials in this Reposotory for successful hackathon execution
-
+* General Hackahton Resources can be found [here] ()
 
 # Hackathon Overview:  Predicting Shop Floor Occupancy
 
