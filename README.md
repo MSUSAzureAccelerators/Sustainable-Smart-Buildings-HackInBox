@@ -36,7 +36,6 @@ By the end of the hackathon, attendees will have built a classification model to
 # Prerequisites
 In these challenges, you will provision an Azure Machine Learning workspace and you will then use the Compute Instance to explore data interactively.
 
-# Prerequisites for Tools
 To complete the challenges, participants will need background knowledge of the following:
 * Language: Python
 * Tools:  Azure Machine Learning Studio (Auto ML, Designer can also be used for this challenge but not necessary); Jupyter notebooks
