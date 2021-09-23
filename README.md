@@ -6,6 +6,7 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 
 # Materials in this Repository for successful hackathon execution
 * General Hackathon Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). Here you can find
+   * Smart Buildings Hackathon-in-a-Box
    * Branding
    * FAQs
    * Proctor & Hacker badges
