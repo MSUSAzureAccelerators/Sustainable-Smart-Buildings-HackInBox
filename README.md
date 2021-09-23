@@ -1,6 +1,6 @@
 ![HackathonBanner](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/blob/main/Program%20Assets/HackathonBanner.PNG)
-Driving innovation by helping customers address today’s most pressing issues to reach their sustainability goals is what we do at Microsoft.  Microsoft’s commitment to sustainability is bold and comprehensive, and one of those focus areas is driving smart buildings and cities.
-The Microsoft has helped several high-visibility partnerships around smart buildings, helping our customers set and attain their environmental, social, and governance (ESG) goals expands their potential success factors; companies with high ESG performance have 4.7X higher operating margins than those that do not.
+At Microsoft, we are focused on driving innovation by helping customers address today’s most pressing issues to reach their sustainability goals. One of these critical focus areas includes smart buildings and cities.
+Microsoft has had several high-visibility partnerships around smart buildings, helping our customers set and attain their environmental, social, and governance (ESG) goals which expands their potential success factors. Companies with high ESG performance have 4.7X higher operating margins than those that do not.
 
 The Sustainable Smart Buildings Hackathon helps develop the skills and fluency to build repeatable and customizable first-party solutions for environmental monitoring, energy consumption, facility operating efficiency, and energy source optimization. 
 
