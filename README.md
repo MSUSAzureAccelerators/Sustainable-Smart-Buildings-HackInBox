@@ -13,14 +13,14 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
    * Sample 3-day agenda?
 * Proctor Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
   * Event overview and messaging
-  * Promotion email communication
+  * Recruitment email communication
   * Registration form
   * Proctor guide
   * Proctor training video
   * Post event survey?
 * Hacker Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
   * Event overview and messaging
-  * Promotional email communication
+  * Recruitment email communication
   * Registration form
   * Hacker preperation resources
   * Post event survey?
