@@ -28,7 +28,7 @@ We have curated materials for you as a hacakthon organizer to execute the sustai
   * Hacker preperation resources
   * Post event survey
 
-# Hackathon Overview:  Predicting Shop Floor Occupancy
+# Hackathon Overview:  Predict Shop Floor Occupancy
 
 Contoso Corporation is a construction company building shop floors for many manufacturers across the United States. They are interested in incorporating sustainability into their shop floor design as they embark on smart building development. To support this effort, Contoso has invested in IoT technology, installing sensors on 51 of their shop floors. As a launching ground for their sustainability journey, Contoso needs to understand the data collected by their sensors and the factors influenced by the occupancy rate. Using this knowledge, they want to regulate temperature, humidity, light, and mnonitor CO2 levels on their shop floors.
 
