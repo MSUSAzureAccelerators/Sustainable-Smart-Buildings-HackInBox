@@ -23,6 +23,7 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
   * Gives and Gets
   * Recruitment email communication
   * Registration form
+  * Hacker guide
   * Hacker preperation resources
   * Post event survey?
 
