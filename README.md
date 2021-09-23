@@ -5,6 +5,7 @@ The Microsoft has helped several high-visibility partnerships around smart build
 The Sustainable Smart Buildings Hackathon helps develop the skills and fluency to build repeatable and customizable first-party solutions for environmental monitoring, energy consumption, facility operating efficiency, and energy source optimization. 
 
 # Materials in this Repository for successful hackathon execution
+We have curated materials for you as a hacakthon organizer to exute the sustainable smart buildings hackathon successfully. Specifically, we have materials for each role as listed below: 
 * General Hackathon Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). Here you can find
    * Smart Buildings Hackathon-in-a-Box
    * Branding
@@ -18,14 +19,14 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
   * Proctor guide
   * Train the Trainer guide
   * Proctor training video
-  * Post event survey?
+  * Post event survey
 * Hacker Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
   * Gives and Gets
   * Recruitment email communication
   * Registration form
   * Hacker guide
   * Hacker preperation resources
-  * Post event survey?
+  * Post event survey
 
 # Hackathon Overview:  Predicting Shop Floor Occupancy
 
