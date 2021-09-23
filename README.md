@@ -46,7 +46,7 @@ Other basics would be:
 *	A Windows, Linux, or Mac OS X computer
 * The challenge files for this course
 
-# Challenges
+# Hackathon Challenges Description
 # Challenge 1: Load the data set to Azure Machine Learning Workspace
 A sophisticated data-collection device, the sensor is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
 
