@@ -6,14 +6,23 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 
 # Materials in this Repository for successful hackathon execution
 * General Hackathon Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). Here you can find
-   * item1
-   * item2
+   * Branding
+   * FAQs
+   * Proctor & Hacker badges
+   * Sample 3-day agenda?
 * Proctor Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
-  * item1
-  * item2
+  * Event overview and messaging
+  * Promotion email communication
+  * Registration form
+  * Proctor guide
+  * Proctor training video
+  * Post event survey?
 * Hacker Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
-  * item1
-  * item2 
+  * Event overview and messaging
+  * Promotional email communication
+  * Registration form
+  * Hacker preperation resources
+  * Post event survey?
 
 # Hackathon Overview:  Predicting Shop Floor Occupancy
 
