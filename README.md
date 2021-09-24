@@ -19,6 +19,7 @@ You can find curated materials for you to organize and execute the sustainable s
     * Proctor guide
     * Train the Trainer guide
     * Proctor training video
+    * Proctor 3-day sample agenda
     * Post event survey
 ## Hacker Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
     * Gives and Gets
@@ -26,6 +27,7 @@ You can find curated materials for you to organize and execute the sustainable s
     * Registration form
     * Hacker guide
     * Hacker preperation resources
+    * Hacker 3-day sample agenda
     * Post event survey
 
 # Hackathon Overview:  Predict Shop Floor Occupancy
