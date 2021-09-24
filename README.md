@@ -77,7 +77,7 @@ Data exploration is an approach to understand what is in a dataset and the chara
          * What are the ways data can be pruned or refined by removing unusable and poorly formatted data portions?
          * How to visualize relevant relationships amongst features across dataset?
 
-### Challenge 3: Build a classification model to predict if a shop floor has occupants 
+### Challenge 3: Build a classification model to predict shop floor occupancy
 A machine learning model is a file that has been trained to recognize certain types of patterns. You train a model over a set of data, providing it an algorithm that it can use to reason over and learn from those data. Once you have trained the model, you can use it to reason over data that it hasn't seen before and make predictions about those data.
 
       This challenge is designed to achieve following learning objectives:
