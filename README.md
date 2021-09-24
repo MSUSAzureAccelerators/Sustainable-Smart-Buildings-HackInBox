@@ -8,6 +8,7 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 You can find curated materials for you to organize and execute the sustainable smart buildings hackathon successfully. Specifically, you have access to materials for each role as listed below: 
 ## General Hackathon Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find
     * Smart Buildings Hackathon-in-a-Box
+    * Challenges overview
     * Branding
     * FAQs
     * Proctor & Hacker badges
