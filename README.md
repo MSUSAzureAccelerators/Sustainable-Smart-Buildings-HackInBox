@@ -61,23 +61,23 @@ Other basics would be:
 
 ## Hackathon Challenges:
 ### Challenge 1: Load the data set to Azure Machine Learning Workspace
-   A sophisticated data-collection device, the sensor is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data   from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
+A sophisticated data-collection device, the sensor is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data   from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
 
-   This challenge is designed to achieve following learning objectives:
+This challenge is designed to achieve following learning objectives:
    * How is sensor data collected in Azure Blobs?
    * How to ingest and wrangle the data to generate insights from it?
 
 ### Challenge 2: Data Exploration 
-   Data exploration is an approach to understand what is in a dataset and the characteristics of the data. These characteristics can include size or amount of data, completeness of the data, correctness of the data, possible relationships amongst data elements or files/tables in the data. Data Exploration is aimed at understanding the nuances of the data, and defining basic metadata (statistics, structure, relationships) for the data set that can be used in further analysis. 
+Data exploration is an approach to understand what is in a dataset and the characteristics of the data. These characteristics can include size or amount of data, completeness of the data, correctness of the data, possible relationships amongst data elements or files/tables in the data. Data Exploration is aimed at understanding the nuances of the data, and defining basic metadata (statistics, structure, relationships) for the data set that can be used in further analysis. 
 
-   This challenge is designed to achieve following learning objectives:
+This challenge is designed to achieve following learning objectives:
    * What are the ways data can be pruned or refined by removing unusable and poorly formatted data portions?
    * How to visualize relevant relationships amongst features across dataset?
 
 ### Challenge 3: Build a classification model to predict if a shop floor has occupants 
-   A machine learning model is a file that has been trained to recognize certain types of patterns. You train a model over a set of data, providing it an algorithm that it can use to reason over and learn from those data. Once you have trained the model, you can use it to reason over data that it hasn't seen before and make predictions about those data.
+A machine learning model is a file that has been trained to recognize certain types of patterns. You train a model over a set of data, providing it an algorithm that it can use to reason over and learn from those data. Once you have trained the model, you can use it to reason over data that it hasn't seen before and make predictions about those data.
 
-   This challenge is designed to achieve following learning objectives:
+This challenge is designed to achieve following learning objectives:
    * What machine learning models are suitable for this and similar problem statements?
    * How to interpret how the machine learning models are tuned to predict future unseen data?
 
