@@ -74,7 +74,7 @@ A sophisticated data-collection device, the sensor, is a crucial and fascinating
 Data exploration is an approach to understand what is in a dataset and the characteristics of the data. These characteristics can include size or amount of data, completeness of the data, correctness of the data, possible relationships amongst data elements or files/tables in the data. Data Exploration is aimed at understanding the nuances of the data, and defining basic metadata (statistics, structure, relationships) for the data set that can be used in further analysis. 
 
       This challenge is designed to achieve following learning objectives:
-         * What are the best ways to prune the data (or refined by removing unusable and poorly formatted data portions)?
+         * What are the best ways to prune the data?
          * How to visualize relevant relationships amongst features across dataset?
 
 ### Challenge 3: Build a classification model to predict shop floor occupancy
