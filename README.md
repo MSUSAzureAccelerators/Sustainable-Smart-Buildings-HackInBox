@@ -12,7 +12,6 @@ You can find curated materials for you to organize and execute the sustainable s
     * Branding
     * FAQs
     * Proctor & Hacker badges
-    * Sample 3-day agenda
 ## Proctor Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
     * Give and Gets
     * Recruitment email communication
