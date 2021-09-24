@@ -60,8 +60,9 @@ Other basics would be:
 * The challenge files for this course
 
 ## Hackathon Challenges:
+This hackathon comes with three challenges. Each of the three challenges helps individuals to apply data science best paractices to build a model to predict shop floor occupancy. Each challenge comes with individual tasks and can we reviewed in the [student guide]()
 ### Challenge 1: Load the data set to Azure Machine Learning Workspace
-A sophisticated data-collection device, the sensor is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data   from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
+A sophisticated data-collection device, the sensor is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data   from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to  be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
 
 This challenge is designed to achieve following learning objectives:
    * How is sensor data collected in Azure Blobs?
