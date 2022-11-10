@@ -6,13 +6,13 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 
 # Assets for successful hackathon execution
 You can find curated materials for you to organize and execute the sustainable smart buildings hackathon successfully. Specifically, you have access to materials for each role as listed below. 
-## General Hackathon Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find the following:
+## General Hackathon Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets), in this folder you can find the following:
     * Smart Buildings Hackathon-in-a-Box
     * Challenges overview
     * Branding
     * FAQs
     * Proctor & Hacker badges
-## Proctor Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find the following:
+## Proctor Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests), in this folder you can find the following:
     * Give and Gets
     * Recruitment email communication
     * Registration form
@@ -21,7 +21,7 @@ You can find curated materials for you to organize and execute the sustainable s
     * Proctor training video
     * Proctor 3-day sample agenda
     * Post event survey
-## Hacker Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find the following:
+## Hacker Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests), in this folder you can find the following:
     * Gives and Gets
     * Recruitment email communication
     * Registration form
