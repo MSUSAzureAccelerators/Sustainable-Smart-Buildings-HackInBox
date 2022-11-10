@@ -72,7 +72,7 @@ A sophisticated data-collection device, the sensor, is a crucial and fascinating
          * How is sensor data collected in Azure Blobs?
          * How to ingest data and wrangle the data to generate insights from it?
 
-### Challenge 2: Data Exploration 
+### Challenge 2: Data exploration 
 Data exploration is an approach to understand what is in a dataset and the characteristics of the data. These characteristics can include size or amount of data, completeness of the data, correctness of the data, possible relationships amongst data elements or files/tables in the data. Data Exploration is aimed at understanding the nuances of the data, and defining basic metadata (statistics, structure, relationships) for the data set that can be used in further analysis. 
 
       This challenge is designed to achieve the following learning objectives:
