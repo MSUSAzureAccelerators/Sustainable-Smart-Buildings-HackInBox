@@ -6,13 +6,13 @@ The Sustainable Smart Buildings Hackathon helps develop the skills and fluency t
 
 # Assets for successful hackathon execution
 You can find curated materials for you to organize and execute the sustainable smart buildings hackathon successfully. Specifically, you have access to materials for each role as listed below: 
-## General Hackathon Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find
+## General Hackathon Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find the following:
     * Smart Buildings Hackathon-in-a-Box
     * Challenges overview
     * Branding
     * FAQs
     * Proctor & Hacker badges
-## Proctor Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
+## Proctor Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find the following:
     * Give and Gets
     * Recruitment email communication
     * Registration form
@@ -21,7 +21,7 @@ You can find curated materials for you to organize and execute the sustainable s
     * Proctor training video
     * Proctor 3-day sample agenda
     * Post event survey
-## Hacker Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
+## Hacker Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find the following:
     * Gives and Gets
     * Recruitment email communication
     * Registration form
@@ -30,14 +30,14 @@ You can find curated materials for you to organize and execute the sustainable s
     * Hacker 3-day sample agenda
     * Post event survey
 
-# Hackathon Overview:  Predict Shop Floor Occupancy
+# Hackathon Overview: Predict Shop Floor Occupancy
 
 Contoso Corporation is a construction company building shop floors for many manufacturers across the United States. They are interested in incorporating sustainability into their shop floor design as they embark on smart building development. To support this effort, Contoso has invested in IoT technology, installing sensors on 51 of their shop floors. As a launching ground for their sustainability journey, Contoso needs to understand the data collected by their sensors and the factors influenced by the occupancy rate. Using this knowledge, they want to regulate temperature, humidity, light, and monitor CO2 levels on their shop floors.
 
-* This hackathon enables attendees to access the IoT sensors data stored in Azure Blob that Contoso has collected to predict if a room has any occupants. The dataset contains a week’s worth of records (datetime in UNIX Epoch format) for each of the 51 shop floors.  This data includes information about CO2 concentration, humidity, room temperature, and luminosity.
+* This hackathon enables attendees to access the IoT sensors data stored in Azure Blob that Contoso has collected to predict if a room has any occupants. The dataset contains a week’s worth of records (datetime in UNIX Epoch format) for each of the 51 shop floors. This data includes information about CO2 concentration, humidity, room temperature, and luminosity.
 The dataset has been obfuscated to prevent any leak of IP or identities from prior analysis, and thus the column variables will be general in nature.
 
-* During “hacking” attendees will focus on understanding the data, searching for trends, exploring correlations, describing the characteristics and impact between C02, temperature, humidity, light on occupancy rate.  Hackers will determine which of these collected features could potentially help in determining if a shop floor is occupied.  
+* During “hacking”, attendees will focus on understanding the data, searching for trends, exploring correlations, describing the characteristics and impact between C02, temperature, humidity, and light on occupancy rate.  Hackers will determine which of these collected features could potentially help in determining if a shop floor is occupied.  
 
 * This hackathon enables attendees to help identify the type of features that could prove most beneficial in the development of smart buildings.
 
@@ -55,7 +55,7 @@ In these challenges, you will provision an Azure Machine Learning workspace and 
 To complete the challenges, participants will need background knowledge of the following:
 * Language: Python
 * Tools: Azure Machine Learning Studio (Auto ML, Designer can also be used for this challenge but not necessary); Jupyter notebooks, Azure Storage Explorer
-* Basic Data Science Knowledge:  Data Exploration and Classification model building 
+* Basic Data Science Knowledge: Data Exploration and Classification model building 
 
 Other basics would be:
 * A web browser
@@ -66,23 +66,23 @@ Other basics would be:
 This hackathon comes with three challenges. Each of the three challenges is designed to help individuals to apply data science best paractices to build a model to predict shop floor occupancy. Each challenge comes with individual tasks that can be viewed in this [student guide](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/blob/main/Hacker%20Assests/StudentGuide.docx).
 
 ### Challenge 1: Load the data set to Azure Machine Learning Workspace
-A sophisticated data-collection device, the sensor, is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data   from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to  be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
+A sophisticated data-collection device, the sensor, is a crucial and fascinating component of the Internet of Things (IoT). The purpose of sensors is to collect analog data from the physical world and translate it into digital data assets. Sensors are measuring just about any aspect of the physical world. The calibration of sensors allows them to be tailored to application-specific functions. In this dataset, sensors have been calibrated to measure temperature, humidity, CO2 concentration, luminosity and PIR (motion detection) with accuracy. This sensor data is tasked with capturing information relevant to a shop floor design, so the data can be used to make process improvements for the purpose of increasing carbon and energy efficiency in shop floors. 
 
-      This challenge is designed to achieve following learning objectives:
+      This challenge is designed to achieve the following learning objectives:
          * How is sensor data collected in Azure Blobs?
          * How to ingest data and wrangle the data to generate insights from it?
 
 ### Challenge 2: Data Exploration 
 Data exploration is an approach to understand what is in a dataset and the characteristics of the data. These characteristics can include size or amount of data, completeness of the data, correctness of the data, possible relationships amongst data elements or files/tables in the data. Data Exploration is aimed at understanding the nuances of the data, and defining basic metadata (statistics, structure, relationships) for the data set that can be used in further analysis. 
 
-      This challenge is designed to achieve following learning objectives:
+      This challenge is designed to achieve the following learning objectives:
          * What are the best ways to prune the data?
          * How to visualize relevant relationships amongst features across dataset?
 
 ### Challenge 3: Build a classification model to predict shop floor occupancy
 A machine learning model is a file that has been trained to recognize certain types of patterns. You train a model over a set of data, providing it an algorithm that it can use to reason over and learn from those data. Once you have trained the model, you can use it to reason over data that it hasn't seen before and make predictions about those data.
 
-      This challenge is designed to achieve following learning objectives:
+      This challenge is designed to achieve the following learning objectives:
          * What machine learning models are suitable for this and similar problem statements?
          * How to interpret the performance of a machine learning models that are tuned to predict future unseen data?
 
