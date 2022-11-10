@@ -4,15 +4,15 @@ Microsoft has had several high-visibility partnerships around smart buildings, h
 
 The Sustainable Smart Buildings Hackathon helps develop the skills and fluency to build repeatable and customizable first-party solutions for environmental monitoring, energy consumption, facility operating efficiency, and energy source optimization. 
 
-# Assests for successful hackathon execution
+# Assets for successful hackathon execution
 You can find curated materials for you to organize and execute the sustainable smart buildings hackathon successfully. Specifically, you have access to materials for each role as listed below: 
-## General Hackathon Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find
+## General Hackathon Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Program%20Assets). In this folder you can find
     * Smart Buildings Hackathon-in-a-Box
     * Challenges overview
     * Branding
     * FAQs
     * Proctor & Hacker badges
-## Proctor Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
+## Proctor Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Proctor%20Assests). In this folder you can find
     * Give and Gets
     * Recruitment email communication
     * Registration form
@@ -21,7 +21,7 @@ You can find curated materials for you to organize and execute the sustainable s
     * Proctor training video
     * Proctor 3-day sample agenda
     * Post event survey
-## Hacker Assests can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
+## Hacker Assets can be found [here](https://github.com/MODDSAIAccelerators/SustainableSmartBuildingsHackInBox/tree/main/Hacker%20Assests). In this folder you can find
     * Gives and Gets
     * Recruitment email communication
     * Registration form
